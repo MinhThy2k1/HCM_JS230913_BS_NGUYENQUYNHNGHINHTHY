@@ -1,0 +1,39 @@
+* {
+  list-style: none;
+}
+
+.todolist_Container {
+  margin-top: 20px;
+  border: 2px solid black;
+
+  margin-left: 10%;
+  width: 80%;
+  text-align: center;
+}
+.todolist_Container h3 {
+  margin-top: 20px;
+}
+.task_container {
+  width: 92%;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+.img_container img {
+  width: 20%;
+  height: 20%;
+}
+.completed {
+  text-decoration: line-through;
+  color: #000000; /* Màu xám nhạt */
+}
+.inputtext {
+  width: 20px;
+}
+label {
+  width: 100px;
+}
+button {
+  margin-left: 20px;
+}
